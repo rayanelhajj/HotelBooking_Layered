@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using HotelBooking.Models;
-using HotelBooking.Data;
 using HotelBooking.Data.Repositories;
 
 namespace HotelBooking.BusinessLogic
